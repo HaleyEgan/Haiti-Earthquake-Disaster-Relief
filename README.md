@@ -1,4 +1,4 @@
-# Haiti-Disaster-Relief-Project
+# Haiti Earthquake Disaster Relief Project
 
 ## Introduction
 Following the 2010 Haiti earthquake, rescue workers needed to get food and water to the displaced persons. But with destroyed communications, impassable roads, and thousands of square miles, actually locating the people who needed help was challenging.
